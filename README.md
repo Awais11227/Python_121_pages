@@ -36,15 +36,6 @@ It’s based on a **121-page notebook (PDF)** where I documented everything from
 - 🤖 Simple Chatbot  
 - 📧 Email Slicer  
 
-
-
----
-
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-
 <!-- 
 🙌 Author  
 
@@ -61,4 +52,13 @@ If you find this helpful, don’t forget to:
 
 Together, let’s make learning Python easier for everyone! 🐍  
 -->
+
+---
+
+## 🚀 How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+
+
 
